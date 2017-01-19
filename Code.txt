@@ -1,0 +1,5 @@
+def fact(a,b){
+	a = a+ 3
+	b = b + a
+}
+fact(3,5)
